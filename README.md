@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with React Typescript Tailwind
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It uses [Craco](https://github.com/gsoft-inc/craco) to customize the postcss configuration.
 
 ## Available Scripts
 
